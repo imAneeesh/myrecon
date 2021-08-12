@@ -3,7 +3,7 @@
 A small one-liner recon tool, intigrated with other tools.
 (still under devolopment)
 
-Other tool req:
+#### Required Other tool from great persons:
 * gau
 * httprobe
 * waybackurls
@@ -11,7 +11,7 @@ Other tool req:
 * aquatone
 * notify
 
-## installation
+## Installation
 ``` git clone https://github.com/imAneeesh/myrecon && cd myrecon && chmod +x recon.sh && bash recon.sh ```
 
 ### Usage
